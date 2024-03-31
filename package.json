@@ -1,6 +1,6 @@
 {
   "name": "@muhib-ahmed/number-gussing-game",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Guess the right number",
   "main": "index.js",
   "type": "module",
@@ -16,6 +16,7 @@
   "dependencies": {
     "@types/inquirer": "^9.0.7",
     "@types/node": "^20.11.30",
-    "inquirer": "^9.2.17"
+    "inquirer": "^9.2.17",
+    "registry.npmjs.org": "^1.0.1"
   }
 }

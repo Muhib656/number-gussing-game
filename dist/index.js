@@ -1,4 +1,4 @@
-#! /urs/bin/env node 
+#! /usr/bin/env node 
 import inquirer from "inquirer";
 // Choose a Random Number
 // User's guess a number

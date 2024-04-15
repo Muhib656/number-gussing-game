@@ -1,5 +1,5 @@
 {
-  "name": "@muhib-ahmed/number-gussing-game",
+  "name": "space-number-gussing-game",
   "version": "1.0.1",
   "description": "Guess the right number",
   "main": "index.js",
@@ -7,7 +7,9 @@
   "publishConfig": {
     "access": "public"
   },
-  "bin": "index.js",
+  "bin": {
+    "number-gussing-game": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
